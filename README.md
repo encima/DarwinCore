@@ -1,0 +1,1 @@
+A project that allows for the unzipping, reading, database insertion and manipulation of Darwin Core archives. I use this code in various forms all over the place, so it seemed logical to create this project and export it as a JAR. I plan to modify this (time dependent) to allow for the use of straight MySQL, hibernate or nothing.
